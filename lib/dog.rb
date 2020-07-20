@@ -5,3 +5,5 @@ fido = Dog.new
 fido.name = "Fido"
 
 end 
+
+fido.name
